@@ -15,9 +15,9 @@ To build a low-cost WiFi camera that streams live video to any web browser on th
 
 ## 2. Result
 
-![Photo captured with the Take Photo button](images/web-stream.jpg)
+![Sample photo for the ESP32-CAM Web Stream project](images/web-stream.jpg)
 
-*A frame captured through the web page. The face has been blurred for privacy.*
+*Sample photo. The face has been blurred for privacy.*
 
 ## 3. Hardware used
 

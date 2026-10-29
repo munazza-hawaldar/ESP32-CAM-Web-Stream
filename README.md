@@ -2,9 +2,9 @@
 
 A WiFi camera built on the AI Thinker ESP32-CAM. It serves a small web page that shows a **live video stream**, lets you **capture and download photos**, and **controls the onboard flash LED** from any browser on the same network.
 
-![ESP32-CAM web page result](images/web-stream.jpg)
+![Sample photo for the ESP32-CAM Web Stream project](images/web-stream.jpg)
 
-*Photo captured through the web page (face blurred for privacy).* Full write-up: [PROJECT_REPORT.md](PROJECT_REPORT.md)
+*Sample photo (face blurred for privacy).* Full write-up: [PROJECT_REPORT.md](PROJECT_REPORT.md)
 
 ## Features
 
